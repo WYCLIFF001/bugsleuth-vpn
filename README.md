@@ -70,7 +70,7 @@
 
 **First Time Setup:**
 ```bash
-apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
+apt update -y && apt install -y wget curl && apt upgrade -y && apt dist-upgrade -y && reboot
 ```
 
 **Installation:**
@@ -84,7 +84,7 @@ wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/ins
 
 **First Time Setup:**
 ```bash
-apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
+apt-get update && apt-get install -y wget curl && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
 ```
 
 **Installation:**
@@ -98,12 +98,12 @@ wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/ins
 
 **First Time Setup:**
 ```bash
-dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reboot
+dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reboot
 ```
 
 **Installation:**
 ```bash
-curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -112,12 +112,12 @@ curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/i
 
 **First Time Setup:**
 ```bash
-dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reboot
+dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reboot
 ```
 
 **Installation:**
 ```bash
-curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -126,12 +126,12 @@ curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/i
 
 **First Time Setup:**
 ```bash
-dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reboot
+dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reboot
 ```
 
 **Installation:**
 ```bash
-curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -140,7 +140,7 @@ curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/i
 
 **First Time Setup:**
 ```bash
-pacman -Syu --noconfirm && grub-mkconfig -o /boot/grub/grub.cfg && reboot
+pacman -S --noconfirm wget curl && pacman -Syu --noconfirm && grub-mkconfig -o /boot/grub/grub.cfg && reboot
 ```
 
 **Installation:**
@@ -154,7 +154,7 @@ wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/ins
 
 **First Time Setup:**
 ```bash
-zypper refresh && zypper update -y && zypper dist-upgrade -y && reboot
+zypper install -y wget curl && zypper refresh && zypper update -y && zypper dist-upgrade -y && reboot
 ```
 
 **Installation:**
