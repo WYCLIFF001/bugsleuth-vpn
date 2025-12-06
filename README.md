@@ -1,9 +1,11 @@
 <p align="center">
 <h1 align="center">Auto Script VPN Service Installer</h1>
 <h2 align="center">SSH/OpenVPN/XRAY with Telegram Bot Management</h2>
-<img src="https://img.shields.io/badge/Release-v1.0-blue.svg">
+<p align="center">
+<img src="https://img.shields.io/badge/Release-v0.1.0-blue.svg">
 <img src="https://img.shields.io/badge/Systemd-Required-green.svg">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+</p>
 </p>
 
 ---
