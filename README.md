@@ -272,9 +272,17 @@ Renew  : password:days (SSH) / UUID:days (XRAY)
 
 **Verify Services:**
 ```bash
+systemctl status nginx
+systemctl status haproxy
 systemctl status ssh
-systemctl status openvpn
+systemctl status dropbear
+systemctl status ws
+systemctl status dnstt
+systemctl status udp-custom
 systemctl status xray
+systemctl status openvpn-server@server-tcp-1194.service
+systemctl status openvpn-server@server-udp-2200.service
+systemctl status bot
 ```
 
 ---
