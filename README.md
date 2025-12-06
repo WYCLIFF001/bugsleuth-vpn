@@ -189,7 +189,7 @@ wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/ins
 ✅ Telegram Bot Management<br>
 ✅ Account Auto-Delete (Expired)<br>
 ✅ Account Auto-Renewal<br>
-✅ BadVPN UDP: 7100-7300<br>
+✅ UDPGW : 7100-7300<br>
 ✅ SlowDNS Support<br>
 ✅ Multi-Protocol Support<br>
 ✅ Automated Installation<br>
