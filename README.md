@@ -73,7 +73,7 @@ apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 
 **Installation:**
 ```bash
-wget -q https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -87,7 +87,7 @@ apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && re
 
 **Installation:**
 ```bash
-wget -q https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -101,7 +101,7 @@ dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reb
 
 **Installation:**
 ```bash
-curl -sLO https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -115,7 +115,7 @@ dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reb
 
 **Installation:**
 ```bash
-curl -sLO https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -129,7 +129,7 @@ dnf update -y && dnf upgrade -y && grub2-mkconfig -o /boot/grub2/grub.cfg && reb
 
 **Installation:**
 ```bash
-curl -sLO https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+curl -sLO https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -143,7 +143,7 @@ pacman -Syu --noconfirm && grub-mkconfig -o /boot/grub/grub.cfg && reboot
 
 **Installation:**
 ```bash
-wget -q https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -157,7 +157,7 @@ zypper refresh && zypper update -y && zypper dist-upgrade -y && reboot
 
 **Installation:**
 ```bash
-wget -q https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/VERSION/vpn-installer && chmod +x vpn-installer && ./vpn-installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.0/installer && chmod +x installer && ./installer
 ```
 
 ---
