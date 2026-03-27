@@ -2,7 +2,7 @@
 <h1 align="center">Auto Script VPN Service Installer</h1>
 <h2 align="center">SSH/OpenVPN/XRAY with Telegram Bot Management</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Release-v0.1.1-blue.svg">
+<img src="https://img.shields.io/badge/Release-v0.1.2-blue.svg">
 <img src="https://img.shields.io/badge/Systemd-Required-green.svg">
 <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
 <img src="https://img.shields.io/badge/IPv4-Supported-brightgreen.svg">
@@ -93,27 +93,27 @@ apt update -y && apt install -y wget curl && apt upgrade -y && apt dist-upgrade 
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -127,27 +127,27 @@ apt-get update && apt-get install -y wget curl && apt-get upgrade -y && apt dist
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -161,27 +161,27 @@ dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -195,27 +195,27 @@ dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -229,27 +229,27 @@ dnf install -y wget curl && dnf update -y && dnf upgrade -y && grub2-mkconfig -o
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -263,27 +263,27 @@ pacman -S --noconfirm wget curl && pacman -Syu --noconfirm && grub-mkconfig -o /
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
@@ -297,27 +297,27 @@ zypper install -y wget curl && zypper refresh && zypper update -y && zypper dist
 
 **Installation — x86_64 (64-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-x86_64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-x86_64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — aarch64 (64-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-aarch64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-aarch64 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — armv7 (32-bit ARM):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-armv7 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-armv7 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — i686 (32-bit Intel/AMD):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-i686 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-i686 -O installer && chmod +x installer && ./installer
 ```
 
 **Installation — riscv64 (RISC-V 64-bit):**
 ```bash
-wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.1/installer-riscv64 -O installer && chmod +x installer && ./installer
+wget -q https://github.com/WYCLIFF001/bugsleuth-vpn/releases/download/v0.1.2/installer-riscv64 -O installer && chmod +x installer && ./installer
 ```
 
 ---
